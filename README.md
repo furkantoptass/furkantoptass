@@ -5,5 +5,5 @@
 I’m Software Engineer. 
 
 
-- 💬  webmasterkitchen[WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
-- 📫  How to reach me: kaya@hey.com or Twitter [@kthomas901](twitter.com/kthomas901)
+- 💬  webmasterkitchen [WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
+- 📫  toptas.furkan@gmail.com [E-Mail](toptas.furkan@gmail.com)
