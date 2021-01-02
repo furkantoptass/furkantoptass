@@ -1,4 +1,6 @@
-<img align="right" src="https://miro.medium.com/fit/c/1360/1360/1*SAgPTVPcNDE4QaFSqqp-9w.png" alt="Furkan Toptas Profile Picture" width=300px height=350px/>
+<a align="right" class="tooltipped tooltipped-s d-block" aria-label="Change your avatar" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:48125285,&quot;target&quot;:&quot;EDIT_AVATAR&quot;,&quot;user_id&quot;:48125285,&quot;originating_url&quot;:&quot;https://github.com/furkantoptass&quot;}}" data-hydro-click-hmac="cec308446a482bc45fa4b2a0625b7ee38bcfad5b190d2315f394a0d592fef459" href="https://github.com/account"><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border bg-white" src="https://avatars1.githubusercontent.com/u/48125285?s=460&amp;u=a0154f834fe2bc9afbcf1d7f3b971fe3ae86d6f1&amp;v=4" style="widht="250px;"></a>
+
+
 
 <h2 align='center'> Hi, I'm Furkan TOPTAŞ 👋</h2>
 
