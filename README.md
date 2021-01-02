@@ -16,7 +16,9 @@
 
 <h4>Contact</h4>
 <p>
+ <a href="mailto:toptas.furkan@gmil.com">
 - 📫  E-Mail: toptas.furkan@gmail.com 
+ </a>
 </p>
 
 
