@@ -11,12 +11,12 @@
 
 <h4>Blog</h4>
 
-- 💬  [WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
+💬  [WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
 
 
 <h4>Contact</h4>
 <p>
- - 📫 <a href="mailto:toptas.furkan@gmil.com">
+ 📫 <a href="mailto:toptas.furkan@gmil.com">
  toptas.furkan@gmail.com 
  </a>
 </p>
