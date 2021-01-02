@@ -5,5 +5,5 @@
 I’m Software Engineer. 
 
 
-- 💬  webmasterkitchen [WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
-- 📫  toptas.furkan@gmail.com [E-Mail](toptas.furkan@gmail.com)
+- 💬  WebmasterKitchen :[WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
+- 📫  E-Mail: toptas.furkan@gmail.com 
