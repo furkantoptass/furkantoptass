@@ -11,7 +11,7 @@
 
 <h4>Blog</h4>
 
-- 💬  WebmasterKitchen :[WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
+- 💬  [WebmasterKitchen](https://webmaster.kitchen/author/furkantoptas/)
 
 
 <h4>Contact</h4>
